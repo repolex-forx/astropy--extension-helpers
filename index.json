@@ -1,0 +1,11 @@
+{
+  "org": "astropy",
+  "repo": "extension-helpers",
+  "versions": [
+    {
+      "commit": "f75d18ad43264117aebf6c1d2c34a6c587e61f60",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:33:47.492252+00:00"
+    }
+  ]
+}
